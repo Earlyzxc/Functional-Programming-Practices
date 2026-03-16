@@ -1,3 +1,4 @@
+#Using Lambda as Temporary Function
 to_celsius             = lambda f: round((f - 32) * 5/9, 2)
 to_fahrenheit          = lambda c: round((c * 9/5) + 32, 2)
 to_kelvin              = lambda c: round(c + 273.15, 2)
