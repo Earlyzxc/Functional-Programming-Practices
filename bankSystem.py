@@ -1,3 +1,4 @@
+#This is Log in Checker using Decorators and args/kwargs
 is_logged_in = False
 current_user = "" 
 
